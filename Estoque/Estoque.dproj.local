@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/04 01:35:39.000.347,=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/04 01:36:05.000.786,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitPrincipal.dfm=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/04 01:36:05.000.786,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitPrincipal.pas=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/04 01:36:17.000.912,C:\Users\Matheus\Documents\Embarcadero\Estoque\Estoque.dproj=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/04 01:45:06.000.133,=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.pas</Transaction>
+    <Transaction>2022/08/04 01:45:36.000.883,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitCadProduto.pas=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.pas</Transaction>
+    <Transaction>2022/08/04 01:45:36.000.883,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitCadProduto.dfm=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.dfm</Transaction>
+    <Transaction>2022/08/04 01:45:41.000.351,=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.pas</Transaction>
+    <Transaction>2022/08/04 01:45:49.000.959,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitCadMovimentacao.dfm=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.dfm</Transaction>
+    <Transaction>2022/08/04 01:45:49.000.959,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitCadMovimentacao.pas=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.pas</Transaction>
+    <Transaction>2022/08/04 01:46:31.000.381,=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.pas</Transaction>
+    <Transaction>2022/08/04 01:47:09.000.223,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitConsMovimentacao.pas=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.pas</Transaction>
+    <Transaction>2022/08/04 01:47:09.000.223,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitConsMovimentacao.dfm=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.dfm</Transaction>
+    <Transaction>2022/08/04 01:47:29.000.747,=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.pas</Transaction>
+    <Transaction>2022/08/04 01:47:49.000.027,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitDM.dfm=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.dfm</Transaction>
+    <Transaction>2022/08/04 01:47:49.000.027,C:\Users\Matheus\Documents\Embarcadero\Estoque\unitDM.pas=C:\Users\Matheus\Documents\Embarcadero\Estoque\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

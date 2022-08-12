@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/08/03 14:19:23.573,=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/03 14:22:39.518,C:\Users\Matheus\Documents\Embarcadero\Consultas\Unit1.dfm=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/03 14:22:39.518,C:\Users\Matheus\Documents\Embarcadero\Consultas\Unit1.pas=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/03 14:22:40.928,C:\Users\Matheus\Documents\Embarcadero\Consultas\Project1.dproj=C:\Users\Matheus\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/03 14:27:13.084,=C:\Users\Matheus\Documents\Embarcadero\Consultas\Unit2.pas</Transaction>
+    <Transaction>2022/08/03 14:27:22.334,C:\Users\Matheus\Documents\Embarcadero\Consultas\unitDM.dfm=C:\Users\Matheus\Documents\Embarcadero\Consultas\Unit2.dfm</Transaction>
+    <Transaction>2022/08/03 14:27:22.334,C:\Users\Matheus\Documents\Embarcadero\Consultas\unitDM.pas=C:\Users\Matheus\Documents\Embarcadero\Consultas\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
